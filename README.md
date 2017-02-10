@@ -1,1 +1,1 @@
-# Deep-Learning-Udacity-
+# ConvNets implementation
